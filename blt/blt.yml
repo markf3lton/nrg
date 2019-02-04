@@ -10,7 +10,7 @@ project:
 git:
   default_branch: master
   remotes:
-    - git@github.com:markf3lton/nrg.git
+    - pwcapp@svn-29892.prod.hosting.acquia.com:pwcapp.git
 deploy:
   tag_source: true
 drush:
